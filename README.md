@@ -25,8 +25,11 @@ Cara Menjalankan Aplikasi
 
 Screenshot aplikasi
 1.Hasil Bayar + Kembalian
-https://1drv.ms/i/c/fb4b825b88baf372/IQA0zQOApM4gR6jm7vyxfYXDAX6BRPLK4GpNbll55EsE1Gw?e=DVpPUd
+<img width="667" height="827" alt="Hasil Bayar + Kembalian" src="https://github.com/user-attachments/assets/bd17e41a-2daf-4554-b022-c7f04014fe33" />
+
 2.Hasil Hitung Total Harga
-https://1drv.ms/i/c/fb4b825b88baf372/IQDMEqCi-P9VTolOromdc6eqAW5KTyO3R5fHMeIQu2qnajo?e=RVWpXt
+<img width="663" height="816" alt="Hasil Hitung Total Harga" src="https://github.com/user-attachments/assets/d8bd107b-c98c-4ddf-a25e-c6324fa76a5d" />
+
 3.Tampilan Utama Aolikasi
-https://1drv.ms/i/c/fb4b825b88baf372/IQBmWpCiloyNRrXhYWCLVrwtAbHwXH0fv62he4szUZ20B4w?e=0VFpPk
+<img width="662" height="834" alt="Tampilan Utama Aplikasi" src="https://github.com/user-attachments/assets/f646abfd-1279-42af-ba15-5a7b97ba0e69" />
+
