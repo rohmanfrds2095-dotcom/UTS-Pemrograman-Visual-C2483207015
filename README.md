@@ -23,10 +23,10 @@ Cara Menjalankan Aplikasi
 3. Isi data transaksi
 4. Tekan Hitung → Bayar → Reset
 
-Screenshot Aplikasi
-![Tampilan Utama]
-("C:\Users\DELL 7400\OneDrive\Dokumen\UTS PEMROGRAMAN VISUAL KASIR KANTIN KAMPUS\screenshot\Hasil Bayar + Kembalian.png")
-![Hasil Hitung Total]
-("C:\Users\DELL 7400\OneDrive\Dokumen\UTS PEMROGRAMAN VISUAL KASIR KANTIN KAMPUS\screenshot\Hasil Hitung Total Harga.png")
-![Hasil Bayar Kembalian]
-("C:\Users\DELL 7400\OneDrive\Dokumen\UTS PEMROGRAMAN VISUAL KASIR KANTIN KAMPUS\screenshot\Tampilan Utama Aplikasi.png")
+Screenshot aplikasi
+1.Hasil Bayar + Kembalian
+https://1drv.ms/i/c/fb4b825b88baf372/IQA0zQOApM4gR6jm7vyxfYXDAX6BRPLK4GpNbll55EsE1Gw?e=DVpPUd
+2.Hasil Hitung Total Harga
+https://1drv.ms/i/c/fb4b825b88baf372/IQDMEqCi-P9VTolOromdc6eqAW5KTyO3R5fHMeIQu2qnajo?e=RVWpXt
+3.Tampilan Utama Aolikasi
+https://1drv.ms/i/c/fb4b825b88baf372/IQBmWpCiloyNRrXhYWCLVrwtAbHwXH0fv62he4szUZ20B4w?e=0VFpPk
